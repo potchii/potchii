@@ -6,9 +6,9 @@ I like to convert ideas that I get from my day-to-day life into actual, function
 
 So, if I imagine something... chances are I'll go and build it!
 
-My main tech stack is React, TypeScript, Tailwind, Next.js and Framer Motion. My favorite apps are Figma and Photoshop while I usually procrastinate on my PC.
+My main tech stack is React, TypeScript, Tailwind and Next.js. My favorite apps to use in development are Figma and Photoshop while I usually procrastinate on my PC.
 
-I've built over 50 repos, but privately. Today I probably have over 60!
+I've built over 40 repos, but privately. Today I probably have over 50!
 
 ### Tech Stack
 
